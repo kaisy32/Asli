@@ -1,4 +1,5 @@
 # Instalar Dependencias
+### npm init
 ### npm install assert readline-sync fs
 # Usagem
 ### node main.js
