@@ -7,4 +7,3 @@
 ### node main.js arquivo
 ![image](https://user-images.githubusercontent.com/108580118/212362429-a462a07f-77c4-4cb4-8197-3c3cf1ebc5c1.png)
 
-## Não é à versão final.
