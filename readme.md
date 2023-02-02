@@ -1,3 +1,4 @@
+# competencias aprendidas testes unitarios
 # Instalar Dependencias
 #### npm init
 #### npm install assert readline-sync fs
